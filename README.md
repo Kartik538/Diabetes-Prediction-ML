@@ -177,24 +177,8 @@ py -m streamlit run app.py
 
 ## 📷 Application Preview
 
-Example:
+<img width="1917" height="996" alt="image" src="https://github.com/user-attachments/assets/bc0a6aba-2a01-4d0a-828d-ab61cf8e3cb1" />
 
-```
-screenshots/
-    home.png
-    prediction.png
-```
-
-Then display them here:
-
-```markdown
-![Home]![alt text]<img width="1917" height="996" alt="image" src="https://github.com/user-attachments/assets/845f1153-df3b-4a15-8c80-ccce71a52fbc" />
-
-
-![Prediction](screenshots/low_risk.png)
-```
-
----
 
 ## 📌 Future Improvements
 
