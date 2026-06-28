@@ -222,4 +222,4 @@ B.Tech Student | Machine Learning Enthusiast
 
 GitHub: https://github.com/Kartik538
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: www.linkedin.com/in/kartikkkkk-gupta
