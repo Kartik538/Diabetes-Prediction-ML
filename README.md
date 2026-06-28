@@ -188,7 +188,8 @@ screenshots/
 Then display them here:
 
 ```markdown
-![Home]![alt text](image.png)
+![Home]![alt text]<img width="1917" height="996" alt="image" src="https://github.com/user-attachments/assets/845f1153-df3b-4a15-8c80-ccce71a52fbc" />
+
 
 ![Prediction](screenshots/low_risk.png)
 ```
